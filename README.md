@@ -51,14 +51,6 @@ $ npm test
 
 Fork and submit a PR. Issues and next steps are available [here](https://github.com/d4ncer/colour/issues)
 
-## Next Steps
-
-- Random colour generation, both arbitrary and within a theme (material, flat, mac, windows, etc)
-- Palette creation & manipulation (analog/monochrome, complement, triad (with custom angle separation), shades)
-- Random palette creation, both arbitrary and within a theme
-- Performant conversion algorithms
-- Remove underscore dependency
-
 ## License
 
 The MIT License (MIT)
