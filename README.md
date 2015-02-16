@@ -51,6 +51,10 @@ $ npm test
 
 Fork and submit a PR. Issues and next steps are available [here](https://github.com/d4ncer/colour/issues)
 
+## Release History
+
+* 0.1.0 Initial release
+
 ## License
 
 The MIT License (MIT)
