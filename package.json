@@ -1,6 +1,6 @@
 {
   "name": "colourjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library that provides a convenient interface to manipulate colours in JavaScript",
   "main": "index.js",
   "scripts": {
