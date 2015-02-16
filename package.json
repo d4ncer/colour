@@ -1,0 +1,31 @@
+{
+  "name": "colour",
+  "version": "0.1.0",
+  "description": "A library that provides a convenient interface to manipulate colours in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/colourSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4ncer/colour.git"
+  },
+  "keywords": [
+    "javascript",
+    "colour",
+    "color"
+  ],
+  "author": "Raghuvir Kasturi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4ncer/colour/issues"
+  },
+  "homepage": "https://github.com/d4ncer/colour",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
