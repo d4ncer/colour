@@ -1,4 +1,4 @@
-# Colour.js #
+![Colour.js](http://i.imgur.com/UImGik3.png)
 
 A lightweight JavaScript library for creating and manipulating colours.
 
