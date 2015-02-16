@@ -1,5 +1,5 @@
 {
-  "name": "colour",
+  "name": "colourjs",
   "version": "0.1.0",
   "description": "A library that provides a convenient interface to manipulate colours in JavaScript",
   "main": "index.js",
