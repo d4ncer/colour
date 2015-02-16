@@ -11,7 +11,7 @@ Colour depends on Underscore.js for right now, but there are plans to remove it 
 Install via npm
 
 ```
-$ npm install colour
+$ npm install colourjs
 ```
 
 Require & use in your project
