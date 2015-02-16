@@ -24,19 +24,19 @@ var colourRGB = new Colour({ type: 'RGB', value: [226, 122, 63] }, { alpha: 0.7 
 var colourHSL = new Colour({ type: 'HSL', value: [75, 21.9, 65] }, { alpha: 0.7 });
 
 // Conversions
-colourRGB.toHex() // '#e27a3f'
-colourHex.toRGBa() // [226, 122, 63, 0.7]
-colourHSL.toHSV() // [74, 21.1, 72.5]
-colourHSL.desaturate(5).toHexa(); ['#aeb596', 0.7]
+colourRGB.toHex(); // '#e27a3f'
+colourHex.toRGBa(); // [226, 122, 63, 0.7]
+colourHSL.toHSV(); // [74, 21.1, 72.5]
+colourHSL.desaturate(5).toHexa(); // ['#aeb596', 0.7]
 
 // Manipulations
 colourHex.lighten(15).saturate(10).toHSLa(); // [22, 71.7, 83.8, 0.7]
-colourHSL.darken().toHSL() // [75, 21.9, 75]
-colourRGB.grayscale().toHSL() // [22, 0, 88.6]
+colourHSL.darken().toHSL(); // [75, 21.9, 75]
+colourRGB.grayscale().toHSL(); // [22, 0, 88.6]
 
 // Validators
-colourHex.isGrayscale() // false
-colourRGB.grayscale().isColour() // false
+colourHex.isGrayscale(); // false
+colourRGB.grayscale().isColour(); // false
 ```
 
 ## Tests
